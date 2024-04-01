@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-
+    <img src="(https://assets-v2.lottiefiles.com/a/62e02bc6-116f-11ee-aeb0-077c335b3c67/XpwfUikILP.gif)" alt="Örnek Resim"/>
+    
 - 🔭 I’m currently working on Civil Engineering Sector
 - 🌱 I’m currently learning on Python and JavaScript 
 - 👯 I’m looking to collaborate on the Data Sector
@@ -9,5 +10,5 @@
 - 📫 How to reach me: E-mail:  umaltinok@gmail.com
                       Phone:   +90 553 983 2629
 
-  <img src="(https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=6c09b952i4pmchcnahgxlto5455o46rxj1w8boxerm5kql2h&ep=v1_gifs_search&rid=200w.gif&ct=g)" alt="Örnek Resim"/>
+
 
