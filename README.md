@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img src="https://assets-v2.lottiefiles.com/a/62e02bc6-116f-11ee-aeb0-077c335b3c67/XpwfUikILP.gif" alt="Örnek Resim"/>
-    -----
+
 - 🔭 I’m currently working on Civil Engineering Sector
 - 🌱 I’m currently learning on Python and JavaScript 
 - 👯 I’m looking to collaborate on the Data Sector
