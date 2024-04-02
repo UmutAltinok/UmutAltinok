@@ -1,5 +1,7 @@
 [![MasterHead](https://talentgrid.io/wp-content/uploads/2022/06/github-social.png)
 
+[![MasterHead](https://i.gifer.com/MmrL.gif)
+
 
 <h1 align="center">Hi 👋, I'm Umut Altınok</h1>
 <h3 align="center">Civil Engineer Graduated from METU / Junior Data Analyst from Turkey</h3>
