@@ -1,6 +1,6 @@
-![MasterHead](https://talentgrid.io/wp-content/uploads/2022/06/github-social.png)
+<h1 align="center">![MasterHead](https://talentgrid.io/wp-content/uploads/2022/06/github-social.png)
 
-![MasterHead](https://i.pinimg.com/originals/4b/6c/fe/4b6cfeb1df45346f957951f166af3f07.gif)
+<h1 align="center">![MasterHead](https://i.pinimg.com/originals/4b/6c/fe/4b6cfeb1df45346f957951f166af3f07.gif)
 
 
 <h1 align="center">Hi 👋, I'm Umut Altınok</h1>
