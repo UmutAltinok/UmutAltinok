@@ -1,4 +1,4 @@
-[![MasterHead](https://talentgrid.io/wp-content/uploads/2022/06/github-social.png)
+
 
 [![MasterHead](https://i.gifer.com/MmrL.gif)
 
