@@ -1,5 +1,7 @@
 <br>
 👉 🙂Merhaba, ben Umut Altınok. Lisans eğitimimi ODTÜ İnşaat Mühendisliğinde 2020 yılında tamamladım. İnşaat Mühendisliği alanında 3 yıllık bir tecrübem bulunmaktadır. Daha sonra yazılım alanına ilgi duyduğum ve keyif alarak uğraştığım için bu alanda kurslar almaya ve kendimi geliştirmeye başladım. Şu an halihazırda Python, SQL, JAVA, Pandas, Django eğitimi almaktayım ve önümüzdeki dönem Veri Bilimi üzerine yüksek lisansıma başlamayı planlıyorum. Önümüzdeki süreçte kendimi sürekli geliştirerek Veri Analistliği üzerine kariyer planlaması yapmayı planlıyorum.🙂👈
+
+*-*-*--*-*-*-*-*
 <br>
 <br>
 <br>
