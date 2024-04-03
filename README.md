@@ -20,8 +20,8 @@
 
 
 <p align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UmutAltinok&theme=TEMA-İSMİ&show_icons=true&count_private=true)"/>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UmutAltinok&layout=compact&langs_count=8&theme=TEMA-İSMİ"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UmutAltinok&theme=highcontrast&show_icons=true&count_private=true)"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UmutAltinok&layout=compact&langs_count=8&theme=highcontrast"/>
 </p>
 
 
