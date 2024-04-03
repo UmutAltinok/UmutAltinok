@@ -1,4 +1,4 @@
-![MasterHead](https://talentgrid.io/wp-content/uploads/2022/06/github-social.png)
+![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-1967fa9fb299a00e53356d97a772a3ab)
 
 
 
@@ -7,6 +7,7 @@
 <h3 align="center">Civil Engineer Graduated from METU / Junior Data Analyst from Turkey</h3>
 
 - 🌱 I’m currently learning **Python,Java,SQL,Django,HTML,Pandas**
+- 📫 How to reach me **umaltinok@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
