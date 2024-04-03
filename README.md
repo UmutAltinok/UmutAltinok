@@ -1,4 +1,4 @@
-![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-1967fa9fb299a00e53356d97a772a3ab)
+<img src="https://qph.cf2.quoracdn.net/main-qimg-1967fa9fb299a00e53356d97a772a3ab" height="500">
 
 
 
