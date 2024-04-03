@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Umut Altınok</h1>
-<h3 align="center">**Civil Engineer Graduated from METU / Junior Data Analyst from Turkey**</h3>
+<h3 align="center">Civil Engineer Graduated from METU / Junior Data Analyst from Turkey</h3>
 
 - 🌱 I’m currently learning **Python,Java,SQL,Django,HTML,Pandas**
 
